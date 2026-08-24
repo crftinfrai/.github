@@ -8,11 +8,9 @@ Compare cloud costs before deployment.
 Generate production-ready Terraform.
 Operate Kubernetes with AI.
 
-[Try CrftInfrai Console]
-https://console.crftinfrai.com
+[Try CrftInfrai Console](https://console.crftinfrai.com)
 
-[Visit CrftInfrai]
-https://crftinfrai.com
+[Visit CrftInfrai](https://crftinfrai.com)
 
 
 ## What We Build
